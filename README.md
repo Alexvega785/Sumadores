@@ -155,3 +155,4 @@ make clean
 `make core-min` compila y corre `core_min_tb`, que ejecuta
 `program_add_sub_addi.hex` sobre `ProcessorCoreMin` y verifica el banco de
 registros al final (`PASS`/`FAIL` por registro).
+=======
